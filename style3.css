@@ -1,0 +1,64 @@
+body {
+    background-color: #83dcdc;
+}
+
+h1 {
+    font-family: Arial;
+    color: midnightblue;
+    background-color: lightblue;
+    text-align: center;
+    text-shadow: 1px 2px blueviolet;
+}
+
+p.solid {
+    border-style: solid;
+}
+/* Menu */
+ul {
+    font-family: Arial;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: midnightblue;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: blueviolet;
+}
+.active {
+    background-color: blueviolet;
+}
+
+/* Text na stránce */
+h2 {
+    font-family: Arial;
+    color: midnightblue;
+    text-shadow: 1px 1px blueviolet;
+    font-size: 36px;
+}
+h3 {                    /* Menší text */
+
+    font-family: Arial;
+    font-size: 20px;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+h4 {                    /* Větší text */
+    font-family: Arial;
+    font-size: 22px;
+    text-shadow: 1px 1px blueviolet;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
