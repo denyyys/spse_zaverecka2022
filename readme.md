@@ -3,4 +3,4 @@ Basic stránka s HTML/CSS a PHP+MySQL
 - obsahuje basic PHP skripty
 - propojení s lokální SQL databází
 
-odkaz na web: jivi.cz/mynari/index.php
+odkaz na web: https://www.jivi.cz/mynari/index.php
